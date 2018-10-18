@@ -3,8 +3,9 @@
 FR
 
 Ce projet est une mise à jour et s’appuie sur le projet « Gameboy Raspberry Zero Batterymonitoring with MCP3008 », qui a été créé à l’origine par joachimvenaas , donc tous les remerciements vont à Joachim 
- https://github.com/joachimvenaas/gbzbatterymonitor
-Ici, Ce projet a été créé pour simplifier l’installation de gbzbatterymonitor.
+https://github.com/joachimvenaas/gbzbatterymonitor
+
+Ce projet a été créé pour simplifier l’installation de gbzbatterymonitor.
 Vous devez avoir fabriqué au préalable le module de kit de batterie.
 Description détaillés pour le montage du kit indicateur de batterie sous Retropie : https://www.elektronicaone.fr/batterie-retropie-p1/
 
