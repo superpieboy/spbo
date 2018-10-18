@@ -2,7 +2,7 @@
 --------------------------------------------------------------------------------------------------------------
 FR
 
-Ce projet est une mise à jour et s’appuie sur le projet « Gameboy Raspberry Zero Batterymonitoring with MCP3008 », qui a été créé à l’origine par joachimvenaas , donc tous les remerciements vont à Joachim 
+Ce projet est une mise à jour et s’appuie sur le projet « Gameboy Raspberry Zero Batterymonitoring with MCP3008 », qui a été créé à l’origine par joachimvenaas , donc tous les remerciements vont à Joachim :)
 https://github.com/joachimvenaas/gbzbatterymonitor
 
 Ce projet a été créé pour simplifier l’installation de gbzbatterymonitor.
@@ -23,7 +23,7 @@ Détails de l'installation :
 •	Ajout de nouvelles vidéos « lowbattalert.mp4 » et « lowbattshutdown.mp4 », désactivées par défaut.
 Vous pouvez les activer dans le fichier « spbo\Install\gbzbattery\config.py »
 en modifiant la ligne à « CLIPS = 1 ».
-C’est utile quand vous arrivez en fin de batterie, des vidéos vous alertent  !
+C’est utile quand vous arrivez en fin de batterie, des vidéos vous alertent :) !
 
 3)	Le fichier config.py est configuré par défaut avec les valeurs des  résistances à 2 kOhm et 5.6kOhm pour le diviseur de tension, pour ne pas dépasser les 3.3v. 
 
@@ -35,7 +35,7 @@ Vous pouvez le récupérer et le remplacer dans « spbo\Install\ »
 
 ENG
 
-This project is only an update and builds from the “Gameboy Raspberry Zero Batterymonitoring with MCP3008" project , which was originally created by Joachimvenaas, so all the thanks go to Joachim 
+This project is only an update and builds from the “Gameboy Raspberry Zero Batterymonitoring with MCP3008" project , which was originally created by Joachimvenaas, so all the thanks go to Joachim :)
 https://github.com/joachimvenaas/gbzbatterymonitor
 
 Here, this project was created to simplify the installation of gbzbatterymonitor.
@@ -53,7 +53,7 @@ Details:
 • "New “lowbattalert.mp4" and "lowbattshutdown.mp4" videos, which are disabled by default.
 You can enable them in the file "spbo \ Install \ gbzbattery \ config.py"
 by changing the line to "CLIPS = 1".
-It's useful when you arrive at the end of the battery, videos alert you 
+It's useful when you arrive at the end of the battery, videos alert you =:)
 
 3) The “config.py” file is configured by default with the resistance values at 2 kOhm and 5.6k Ohm for the voltage divider, so as not to exceed 3.3v.
 
