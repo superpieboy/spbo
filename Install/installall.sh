@@ -25,7 +25,7 @@ fi
 
 #--------------------------------------battery
 
-
+sudo chmod +x /home/pi/spbo/Install/raspidmx/pngview/pngview
 sudo apt-get install libpng12-dev 
 sudo cp $repinstall/raspidmx/lib/libraspidmx.so.1 /lib 
 echo copie lib ok
