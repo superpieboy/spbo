@@ -22,8 +22,8 @@ en modifiant la ligne à « CLIPS = 1 ».
 C’est utile quand vous arrivez en fin de batterie, des vidéos vous alertent  !
 
 3)	Le fichier config.py est configuré par défaut avec les valeurs des  résistances à 2 kOhm et 5.6kOhm pour le diviseur de tension, pour ne pas dépasser les 3.3v. 
-4)	
-5)	Joachimvenaas met à jour fréquement le répertoire « gbzbattery » depuis https://github.com/joachimvenaas/gbzbatterymonitor
+
+4)	Joachimvenaas met à jour fréquement le répertoire « gbzbattery » depuis https://github.com/joachimvenaas/gbzbatterymonitor
 Vous pouvez le récupérer et le remplacer dans « spbo\Install\ »
 
 
